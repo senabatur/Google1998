@@ -1,0 +1,25 @@
+
+.center
+{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.search{
+    background-color: #EEEEEE;
+}
+.table{
+    width: 90%;
+}
+.mailbutton{
+    font-size: small;
+}
+.mailbutton a{
+    font-size: small;
+}
+.links{
+    font-size: small;
+}
+.footer{
+    font-size: small;
+}
